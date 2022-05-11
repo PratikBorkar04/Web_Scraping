@@ -1,0 +1,56 @@
+2022-05-10 15:38:09,489 step 1 --- Input
+2022-05-10 15:38:09,490 Step 2 --- Clearing data and Adding header
+2022-05-10 15:38:09,494 Step 3 --- inside Scrapper
+2022-05-10 15:38:10,761 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:38:11,925 https://www.flipkart.com:443 "GET /apple-iphone-12-green-64-gb/p/itmc8a19a9686173?pid=MOBFWBYZKK3EJPFW&lid=LSTMOBFWBYZKK3EJPFWHTKEDW&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=a250650e-ddfd-4007-9de8-46f0ff1b93a0.MOBFWBYZKK3EJPFW.SEARCH&ppt=None&ppn=None&ssid=mh9utvqx280000001652176310681&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:38:12,573 Step 4 ---- Functions of product
+2022-05-10 15:38:12,650 Step 5 ---- Adding data to csv file
+2022-05-10 15:38:12,655 Step 3 --- inside Scrapper
+2022-05-10 15:38:14,369 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:38:15,709 https://www.flipkart.com:443 "GET /apple-iphone-12-green-64-gb/p/itmc8a19a9686173?pid=MOBFWBYZKK3EJPFW&lid=LSTMOBFWBYZKK3EJPFWHTKEDW&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=ec75066c-4317-4f1c-86ac-5bc7c54078bd.MOBFWBYZKK3EJPFW.SEARCH&ppt=None&ppn=None&ssid=7t7ghl2cnk0000001652176313885&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:38:16,056 Step 4 ---- Functions of product
+2022-05-10 15:38:16,138 Step 5 ---- Adding data to csv file
+2022-05-10 15:38:16,144 Step 6 ---- Inside Tkinter
+2022-05-10 15:38:16,342 Step 7 ---- Fetching data from csv file
+2022-05-10 15:39:14,320 step 1 --- Input from user
+2022-05-10 15:39:14,321 Step 2 --- Clearing data and Adding header
+2022-05-10 15:39:14,325 Step 3 --- inside Scrapper
+2022-05-10 15:39:15,775 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:39:16,946 https://www.flipkart.com:443 "GET /apple-iphone-12-green-64-gb/p/itmc8a19a9686173?pid=MOBFWBYZKK3EJPFW&lid=LSTMOBFWBYZKK3EJPFWHTKEDW&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=d7e16b49-483b-405e-a4da-141d9d196854.MOBFWBYZKK3EJPFW.SEARCH&ppt=None&ppn=None&ssid=eqeeopbqv40000001652176375573&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:39:17,483 Step 4 ---- Functions of product
+2022-05-10 15:39:17,571 Step 5 ---- Adding data to csv file
+2022-05-10 15:39:17,575 Step 3 --- inside Scrapper
+2022-05-10 15:39:19,206 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:39:20,321 https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG9GGJXXH&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=c174a359-7968-4717-ae43-e95ddd4c5e63.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=9s5qbsvkg00000001652176378801&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:39:20,738 Step 4 ---- Functions of product
+2022-05-10 15:39:20,825 Step 5 ---- Adding data to csv file
+2022-05-10 15:39:20,832 Step 6 ---- Inside Tkinter
+2022-05-10 15:39:21,043 Step 7 ---- Fetching data from csv file
+2022-05-10 15:49:32,622 step 1 --- Input from user
+2022-05-10 15:49:32,624 Step 2 --- Clearing data and Adding header
+2022-05-10 15:49:32,638 Step 3 --- inside Scraper
+2022-05-10 15:49:34,306 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:49:35,843 https://www.flipkart.com:443 "GET /apple-iphone-12-green-64-gb/p/itmc8a19a9686173?pid=MOBFWBYZKK3EJPFW&lid=LSTMOBFWBYZKK3EJPFWHTKEDW&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=a08c655e-8ae4-4621-9c64-38c25e44c4bb.MOBFWBYZKK3EJPFW.SEARCH&ppt=None&ppn=None&ssid=22qsq5n5k00000001652176993916&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:49:36,231 Step 4 ---- Functions of product
+2022-05-10 15:49:36,295 Step 5 ---- Adding data to csv file
+2022-05-10 15:49:36,299 Step 3 --- inside Scraper
+2022-05-10 15:49:37,690 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:49:39,015 https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG9GGJXXH&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=b7351dff-5140-4968-a639-4dee74d27dea.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=7cf62mzysg0000001652176997489&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:49:39,599 Step 4 ---- Functions of product
+2022-05-10 15:49:39,688 Step 5 ---- Adding data to csv file
+2022-05-10 15:49:39,694 Step 6 ---- Inside Tkinter
+2022-05-10 15:49:39,914 Step 7 ---- Fetching data from csv file
+2022-05-10 15:50:40,319 step 1 --- Input from user
+2022-05-10 15:50:40,320 Step 2 --- Clearing data and Adding header
+2022-05-10 15:50:40,332 Step 3 --- inside Scraper
+2022-05-10 15:50:41,929 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:50:43,017 https://www.flipkart.com:443 "GET /apple-iphone-12-green-64-gb/p/itmc8a19a9686173?pid=MOBFWBYZKK3EJPFW&lid=LSTMOBFWBYZKK3EJPFWHTKEDW&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=cfbba153-51b0-4d36-b338-971ebadc568c.MOBFWBYZKK3EJPFW.SEARCH&ppt=None&ppn=None&ssid=ea8v1dgmgg0000001652177061556&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:50:43,351 Step 4 ---- Functions of product
+2022-05-10 15:50:43,422 Step 5 ---- Adding data to csv file
+2022-05-10 15:50:43,427 Step 3 --- inside Scraper
+2022-05-10 15:50:44,839 Starting new HTTPS connection (1): www.flipkart.com:443
+2022-05-10 15:50:45,705 https://www.flipkart.com:443 "GET /apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?pid=MOBFWBYZTK33MBG9&lid=LSTMOBFWBYZTK33MBG9GGJXXH&marketplace=FLIPKART&q=iphone12&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=bca708a5-7415-4a3c-9a7f-4acf7e824948.MOBFWBYZTK33MBG9.SEARCH&ppt=None&ppn=None&ssid=ja57lwlmm80000001652177064548&qH=ad588135f239b88b HTTP/1.1" 200 None
+2022-05-10 15:50:46,091 Step 4 ---- Functions of product
+2022-05-10 15:50:46,185 Step 5 ---- Adding data to csv file
+2022-05-10 15:50:46,191 Step 6 ---- Inside Tkinter
+2022-05-10 15:50:46,410 Step 7 ---- Fetching data from csv file
